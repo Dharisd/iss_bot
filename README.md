@@ -1,6 +1,6 @@
  
 # ISS BOT
-Telegram bot to find when iss will pass over your location. Uses spacefield todo calculations and matplotlib to plot graphs.sends image showing where on map iss will be visible and rise/set time
+Telegram bot to find when iss will pass over your location. Uses spacefield todo calculations and matplotlib to plot graphs.sends image showing where on sky iss will be visible and rise/set time
 
 # Documentation
 requires python 3.6+
